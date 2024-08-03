@@ -1,3 +1,11 @@
-This repository contains a file notepad that links to some certificates that I have achieved throughout the time I have studied at FPT University (for verification purposes).
+# Welcome to Awards Repository ver. 8.3.2024
 
-The reason why I have to upload the FPT certificate instead of including the link like other certificates is that the link to the FPT certificate can only be accessible in FPT University (cannot be shared publicly with everybody), so I instead downloaded the pdf file and put it in the folder.
+## You will find in this repo the following:
+
+* Coursera Certificates earned during my studies at FPT University
+* An IELTS 6.5 Certificate, valid until 2026
+* An FPT University Certificate for being an honorable student with a GPA of 8.0 or higher
+
+#### Connect with me via: nkluantran2907@gmail.com
+
+##### © 2024 luan.tran
